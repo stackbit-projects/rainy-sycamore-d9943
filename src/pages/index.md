@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Welcome to my '
+    title: Welcome home
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
